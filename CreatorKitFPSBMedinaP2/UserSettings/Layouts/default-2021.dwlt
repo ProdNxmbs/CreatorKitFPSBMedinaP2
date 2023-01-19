@@ -73,7 +73,7 @@ MonoBehaviour:
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
-  m_LastLoadedLayoutName: 1
+  m_LastLoadedLayoutName: 
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 619
+  controlID: 182
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -145,7 +145,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 647
+  controlID: 183
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -222,7 +222,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 487
+  controlID: 127
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -694,7 +694,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.12187876, y: 0.69489723, z: -0.12129485, w: 0.6982444}
     speed: 2
-    m_Value: {x: 0.12187911, y: 0.6948992, z: -0.1212952, w: 0.6982464}
+    m_Value: {x: 0.12187876, y: 0.6948973, z: -0.121294856, w: 0.69824445}
   m_Size:
     m_Target: 15.71215
     speed: 2
@@ -755,9 +755,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: e4720000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 00fbffff
+      m_ExpandedIDs: f8faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -831,14 +831,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\752333\Documents\Unity\GitHub\CreatorKitFPSBMedinaP2\CreatorKitFPSBMedinaP2
+  m_LastProjectPath: C:\Users\752333\Unity\GitHub\CreatorKitFPSBMedinaP2\CreatorKitFPSBMedinaP2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 98720000
-    m_LastClickedID: 29336
-    m_ExpandedIDs: 000000009872000000ca9a3bffffff7f
+    m_SelectedIDs: 9e720000
+    m_LastClickedID: 29342
+    m_ExpandedIDs: 000000009e72000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -866,7 +866,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000009872000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000009e720000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
